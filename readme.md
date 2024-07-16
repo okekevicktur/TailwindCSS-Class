@@ -29,7 +29,7 @@ To get started with this project, you'll need to have Node.js and npm installed 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/tailwindcss-project.git
+   git clone https://github.com/okekevicktur/tailwindcss-project.git
    cd tailwindcss-project
    ```
 
@@ -158,6 +158,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: okekevicktur@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/techprovee)
-- **GitHub**: [your-username](https://github.com/okekevicktur)
+- **Email**: okekevicktur@gmail.com
+- **Twitter**: [@techprovee](https://twitter.com/techprovee)
+- **GitHub**: [okekevicktur](https://github.com/okekevicktur)
